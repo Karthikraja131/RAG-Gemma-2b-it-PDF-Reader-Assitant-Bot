@@ -1,6 +1,6 @@
-# PDF-Reader-assistant Bot using RAG and Gemma-2B
+# PDF-Reader-Assistant-Bot using RAG and Gemma-2B
 
-This project builds an PDF-Reader-assistant bot powered by Hugging Face's Gemma-2B model, using Retrieval-Augmented Generation (RAG) to retrieve answers from PDF documents.
+This project builds a PDF-Reader-Assistant-Bot powered by Hugging Face's Gemma-2B model, using Retrieval-Augmented Generation (RAG) to retrieve answers from PDF documents.
 
 ## Features
 
@@ -18,7 +18,7 @@ This project builds an PDF-Reader-assistant bot powered by Hugging Face's Gemma-
 1. Clone this repository:
 
 
-``git clone https://github.com/``
+``https://github.com/Karthikraja131/RAG-Gemma-2b-it-PDF-Reader-Assitant-Bot.git``
 
 
 
